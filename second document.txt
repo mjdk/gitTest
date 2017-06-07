@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+first line
+=======
 first line 2
+>>>>>>> 4a4eccad95eb3dfea0c8cce7646d04689600a6ac
