@@ -1,1 +1,5 @@
-1. line usr1
+A<<<<<<< HEAD
+B
+=======
+A
+>>>>>>> 900553ef7dc918efac49140adcdffa30d7b7c3b6
