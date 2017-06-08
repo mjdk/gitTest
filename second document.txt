@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Second document, first line by user 2
-=======
-Second doc. first lien by user 1
->>>>>>> 8e886b15b35751140546ffa331366115d3866f1e
